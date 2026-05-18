@@ -1,0 +1,7 @@
+/blog                   /blog.html                200
+/blog/agency-or-inhouse /blog-agency-or-inhouse.html  200
+/blog/first-hire        /blog-first-hire.html         200
+/blog/fractional-cmo    /blog-fractional-cmo.html     200
+/startups               /startups.html            200
+/jobs                   /jobs.html                200
+https://www.kindredtalent.com.au/*  https://kindredtalent.com.au/:splat  301
