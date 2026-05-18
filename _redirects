@@ -4,4 +4,4 @@
 /blog/fractional-cmo    /blog-fractional-cmo.html     200
 /startups               /startups.html            200
 /jobs                   /jobs.html                200
-https://www.kindredtalent.com.au/*  https://kindredtalent.com.au/:splat  301
+## https://www.kindredtalent.com.au/*  https://kindredtalent.com.au/:splat  301
